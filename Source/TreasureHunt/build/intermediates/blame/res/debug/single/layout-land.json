@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/settings_button.xml",
+        "source": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.20.0/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.20.0/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.20.0/res/layout-land/ui_layer_with_portrait_support.xml"
+    }
+]

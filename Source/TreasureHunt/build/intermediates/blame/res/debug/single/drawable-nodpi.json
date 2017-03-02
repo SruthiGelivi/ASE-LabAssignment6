@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon_background.png",
+        "source": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon_background.png"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon.png",
+        "source": "/Users/sruthigelivi/Desktop/gvr-android-sdk/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon.png"
+    }
+]
